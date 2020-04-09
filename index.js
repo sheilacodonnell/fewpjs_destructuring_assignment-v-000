@@ -34,7 +34,7 @@ const k_muppet = {
   k_partner: 'Miss Piggy'
 };
 
-const k_name, k_color, { k_album: song_1, song_2, song_3, song_4 }, k_job, k_partner = k_muppet
+const { k_name, k_color, { k_album: song_1, song_2, song_3, song_4 }, k_job, k_partner } = k_muppet
 
 // Strings
 
